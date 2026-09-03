@@ -3,7 +3,7 @@
 A full-stack Restaurant Reservation web application built using the MERN stack. This project allows users to book tables online, manage reservations, and provides an efficient system for restaurant management.
 
 # Live Demo
-[👉](https://addi5520.github.io/restaurant-reservation/)
+[👉](http://localhost:5173/)
 
 # Features
 
