@@ -3,7 +3,7 @@
 A full-stack Restaurant Reservation web application built using the MERN stack. This project allows users to book tables online, manage reservations, and provides an efficient system for restaurant management.
 
 # Live Demo
-[👉](http://localhost:5173/)
+[👉](https://restaurant-reservation1-0.onrender.com/)
 
 # Features
 
